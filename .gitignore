@@ -60,6 +60,7 @@ coverage/
 .env.development.local
 .env.test.local
 .env.production.local
+.tool-versions
 
 # Poetry
-poetry.lock  # Uncomment if you want to ignore the lock file 
+poetry.lock
